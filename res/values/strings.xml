@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Scan N Save</string>
+    <string name="action_settings">Settings</string>
+    <string name="label_button_scan">Scan</string>
+    <string name="title_activity_annotate_scan">Annotate Scan</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="button_save">Save</string>
+
+</resources>
